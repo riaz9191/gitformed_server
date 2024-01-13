@@ -22,7 +22,6 @@ GitFormed is a web application that mimics some features of GitHub. It allows us
    ```bash
    git clone https://github.com/riaz9191/gitformed_server
 
-
 2. **Navigate to the project directory:**
 
    ```bash
@@ -33,7 +32,7 @@ GitFormed is a web application that mimics some features of GitHub. It allows us
    ```bash
    npm install
 
-4. **Set Environment Variables::**
+4. **Set Environment Variables:**
   - Create a .env file in the root directory and add the following variables:
     ```bash
     DB_USER=your_database_user
